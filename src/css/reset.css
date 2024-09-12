@@ -1,0 +1,29 @@
+* {
+    margin: opx;
+    padding: 0px;
+    box-sizing: border-box;
+    color: #000;   
+}
+
+img {
+    max-width: 100%;
+
+}
+
+a{
+    text-decoration: none;
+
+}
+
+ul {
+    list-style: none;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: oxanium, monospace;
+}
+
